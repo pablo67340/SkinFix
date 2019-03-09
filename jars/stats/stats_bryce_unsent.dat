@@ -1,0 +1,14 @@
+{
+  "user":{
+    "name":"Bryce",
+    "sessionid":"local"
+  },
+  "stats-change":[
+    {"2000":545},
+    {"1000":8},
+    {"1100":823},
+    {"2010":1},
+    {"1002":8}
+  ],
+  "checksum":"a87c3bf86f7c28733a66fcf7e4f8a42f"
+}

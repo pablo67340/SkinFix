@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Init"/>
+<fullyQualifiedTypeName name="net.minecraft.src.ModLoader"/>
+<fullyQualifiedTypeName name="net.minecraft.src.BaseMod"/>
+<fullyQualifiedTypeName name="net.minecraft.src.forge.MinecraftForge"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.FMLClientHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.src.RenderManager"/>
+<fullyQualifiedTypeName name="net.minecraft.src.RenderEngine"/>
+<fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+<fullyQualifiedTypeName name="net.minecraft.src.GameSettings"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="net.minecraft.src.TexturePackList"/>
+<fullyQualifiedTypeName name="net.minecraft.src.forge.NetworkMod"/>
+<fullyQualifiedTypeName name="net.minecraft.src.mod_SkinFix"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+</qualifiedTypeNameHistroy>

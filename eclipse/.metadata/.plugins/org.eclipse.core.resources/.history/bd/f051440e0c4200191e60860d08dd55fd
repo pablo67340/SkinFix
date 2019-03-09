@@ -1,0 +1,37 @@
+package net.minecraft.src;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class mod_SkinFix extends BaseMod{
+	
+	private Map<String, Boolean> fetchedUUID;
+	private Map<String, String> UUIDBank;
+	
+	private static mod_SkinFix INSTANCE;
+
+	@Override
+	public String getVersion() {
+		return "1.1";
+	}
+
+	@Override
+	public void load() {
+		INSTANCE = this;
+		fetchedUUID = new HashMap<String, Boolean>();
+		UUIDBank = new HashMap<String, String>();
+	}
+	
+	public static mod_SkinFix getInstance() {
+		return INSTANCE;
+	}
+	
+	public Map<String, String> getUUIDBank(){
+		return UUIDBank;
+	}
+	
+	public Map<String, Boolean> getFetchedUUID(){
+		return fetchedUUID;
+	}
+
+}
